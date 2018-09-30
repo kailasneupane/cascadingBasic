@@ -1,0 +1,6 @@
+id;address
+1;Damauli
+2;Kalanki
+3;Gongabu
+4;hetauda
+5;Chitwan

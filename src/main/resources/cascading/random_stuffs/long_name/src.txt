@@ -1,0 +1,9 @@
+id;ssn;name
+1;123456789;kailash
+1;1234567;hari
+2;123456789;kailash neupane
+2;123456789;kailash neupane
+2;12345678;kailash neupane abc
+3;123;hari
+4;384756473;hari bahadur
+4;384756473;hari d bahadur

@@ -1,0 +1,6 @@
+name;gender
+ram;M
+rita;U
+kailash;M
+sita;F
+shyam;ABC
