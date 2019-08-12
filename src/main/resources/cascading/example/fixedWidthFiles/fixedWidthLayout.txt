@@ -1,0 +1,5 @@
+#id;fieldname;length
+1;sn;4
+2;name;18
+3;city;11
+4;zone;13
