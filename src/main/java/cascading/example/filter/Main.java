@@ -6,9 +6,11 @@ import cascading.flow.local.LocalFlowConnector;
 import cascading.pipe.Each;
 import cascading.pipe.Pipe;
 import cascading.scheme.local.TextDelimited;
+import cascading.scheme.local.TextLine;
 import cascading.tap.SinkMode;
 import cascading.tap.Tap;
 import cascading.tap.local.FileTap;
+import cascading.tuple.Fields;
 
 /**
  * Created by serrorist on 9/29/18.
