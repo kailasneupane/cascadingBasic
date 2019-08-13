@@ -27,7 +27,7 @@ public class Main {
     public static void main(String[] args) {
 
         /**
-         * Filter out the rows which contains gender value other than “M” or “F”.
+         * from given fixed width layout and fixed width file,convert fixed witdth files to pipe delimited files
          */
 
         String sourcePath = "src/main/resources/cascading/example/fixedWidthFiles/fixed_width.txt";
